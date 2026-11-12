@@ -1,1 +1,1 @@
-{"code": 249, "notes": "• Автогонка: бот ничего не нажимает, пока идут 15 заездов, и ждёт возврата в гараж. Потом проверяет задания и при необходимости запускает ещё одну (не больше двух).\n• Бензин за $ первым (до $20), до 30 гонок, купоны последними.", "url": "https://raw.githubusercontent.com/vdvnv2000-tech/DragBot-updates/main/DragBot-Zadaniya.apk"}
+{"code": 252, "notes": "0.1.252: длинные отчёты приходят целиком", "url": "https://raw.githubusercontent.com/vdvnv2000-tech/DragBot-updates/main/DragBot-Zadaniya.apk"}
